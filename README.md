@@ -5,7 +5,7 @@
 
 ## Overview
 UI Manger aims to help you in managing your ui more easily, and faster with less
-code inside your program, with a easy to use interface so it's easy to use and learn
+code inside your program, with an easy to use interface so it's easy to use and learn
 for use in your program.
 
 ## License
