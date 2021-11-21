@@ -1,0 +1,18 @@
+# UI Manager CHANGELOG
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+## [0.2.0] - 2021-11-21
+### Added
+- Added support for .qss files for use in themes.
+- Added support for importing files in folders (NOTE: this feature is only available for .qss files).
+- Added support for importing more than one theme class in a .py file.
+- Added error messages in some sections, for better debugging.
+
+### Changed
+- Improved support for importing .py files as themes.
+- Moved default light and dark themes from classes to qss files.
+
+### Removed
+- Removed default light and dark theme classes.

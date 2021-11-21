@@ -1,0 +1,3 @@
+recursive-include ui_manager/resources/themes *
+recursive-include *.md
+recursive-include *.txt
