@@ -1,0 +1,59 @@
+/*Default dark theme for UI Manager
+*/
+
+QWidget{
+    background-color: rgb(53, 53, 53);
+    color: rgb(233, 233, 233);
+}
+
+QDialog{
+    background-color: rgb(53, 53, 53);
+    color: rgb(233, 233, 233);
+}
+
+QMainWindow{
+    background-color: rgb(53, 53, 53);
+    color: rgb(233, 233, 233);
+}
+
+QMenuBar{
+    background-color: rgb(63, 63, 63);
+    color: rgb(233, 233, 233);
+}
+
+QLCDNumber{
+    background-color: rgb(53, 53, 53);
+    color: rgb(233, 233, 233);
+    
+    border-color: rgb(244, 244, 244);
+}
+
+QScrollArea{
+    background-color: rgb(57, 57, 57);
+    color: rgb(233, 233, 233);
+}
+
+QMenu{
+    background-color: rgb(53, 53, 53);
+    color: rgb(233, 233, 233);
+}
+
+QMenu::item{
+    background-color: rgb(57, 57, 57);
+    color: rgb(233, 233, 233);
+}
+
+QMenu::item:selected{
+    background-color: rgb(63, 63, 63);
+    color: rgb(233, 233, 233);
+}
+
+QLabel{
+    background-color: rgb(53, 53, 53);
+    color: rgb(233, 233, 233);
+}
+
+QPushButton{
+    background-color: rgb(53, 53, 53);
+    color: rgb(233, 233, 233);
+}
