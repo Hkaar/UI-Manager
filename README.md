@@ -1,7 +1,7 @@
 # UI Manager
-*A UI Manager for PyQt & PySide*
+A UI Manager for PyQt & PySide
 
-**Copyright(c) 2021 Hkaar**
+**Copyright (c) 2021 Hkaar**
 
 ## Overview
 UI Manger aims to help you in managing your ui more easily, and faster with less
