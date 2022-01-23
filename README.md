@@ -74,4 +74,4 @@ theme_manager.load_theme() # load the theme to your widget.
 ```
 
 ## Dependecies
-PyQt5 or PySide2
+PyQt5 or PySide2 / PyQt6 or PySide6
