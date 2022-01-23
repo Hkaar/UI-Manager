@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="ui-manager",
-    version="0.2",
+    version="0.2.0",
 
     author="Hkaar",
     author_email="HkaarDev@gmail.com",
